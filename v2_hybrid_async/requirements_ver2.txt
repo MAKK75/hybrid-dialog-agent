@@ -5,3 +5,4 @@ psutil==7.2.2
 pygame==2.6.1
 Requests==2.33.1
 speechrecognition==3.14.5
+python-dotenv==1.0.1
