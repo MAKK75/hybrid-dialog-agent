@@ -1,0 +1,7 @@
+chromadb==1.5.8
+numpy==1.23.3
+opencv_python==4.13.0.92
+psutil==7.2.2
+pygame==2.6.1
+Requests==2.33.1
+speechrecognition==3.14.5
